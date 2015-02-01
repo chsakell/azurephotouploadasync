@@ -1,0 +1,1 @@
+﻿Run this exe console application show that Azure Storage Explorer can be bound to DevStorage account..

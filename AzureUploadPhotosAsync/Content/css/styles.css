@@ -1,0 +1,39 @@
+﻿.loader {
+    height: 50px;
+    width: 100px;
+}
+
+.item {
+    width: 202px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 8px 2px #ccc;
+}
+
+    .item .header {
+        height: 30px;
+        background-color: #B80606;
+        color: #fff;
+    }
+
+    .item .body {
+        width: 200px;
+        height: 200px;
+    }
+
+    .item .image {
+        height: 200px;
+        width: 200px;
+    }
+
+    .item .footer {
+        height: 50px;
+    }
+
+.fancybox-custom .fancybox-skin {
+    box-shadow: 0 0 50px #222;
+}
+
+body {
+    max-width: 700px;
+    margin: 0 auto;
+}
